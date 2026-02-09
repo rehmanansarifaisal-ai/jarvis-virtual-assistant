@@ -1,0 +1,6 @@
+customtkinter
+requests
+python-dotenv
+pyttsx3
+speechrecognition    # optional
+pyaudio              # optional for mic
